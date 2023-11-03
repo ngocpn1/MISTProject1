@@ -4,11 +4,11 @@
 39217 Group6
 
 ## Team Members:
-1. Ngoc Nguyen [@angelmarsh](https://www.github.com/apm83682)
-2. David Tran [@taralpatel](https://www.github.com/taralbpatel)
-3. Nick Kalenik [@rileydoggett](https://www.github.com/RileyDoggett)
-4. Anthony Ramage [@ripleykurtz](https://www.github.com/RipleyKurtz)
-5. Minathi Mekala [@sequoyethsimpson](https://www.github.com/quoysimpson)
+1. Ngoc Nguyen 
+2. David Tran 
+3. Nick Kalenik 
+4. Anthony Ramage 
+5. Minathi Mekala 
 6. CJ Tumlin
 
 ## Problem Description:
