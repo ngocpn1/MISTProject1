@@ -17,5 +17,5 @@
 
 ## Data Model
 
-![Alt text](Screenshot 2023-11-03 at 12.11.11 AM.png](https://github.com/ngocpn1/MISTProject1/blob/main/Screenshot%202023-11-03%20at%2012.11.11%20AM.png?raw=true)https://github.com/ngocpn1/MISTProject1/blob/main/Screenshot%202023-11-03%20at%2012.11.11%20AM.png?raw=true)
+![Alt text](https://github.com/ngocpn1/MISTProject1/blob/main/Screenshot%202023-11-03%20at%2012.11.11%20AM.png?raw=true)
 
