@@ -1,27 +1,30 @@
-
 # Team 6 MIST 4610 Group Project 1
 
-
-## Team Name:
+# Team Name: 
 39217 Group 6
-## Team Members:
-1. David Tran
-2. Nick Kalenik
-3. Minathi Mekala
-4. Ngoc Nguyen
-5. Anthony Ramage
-6. CJ Tumlin
+
+# Team Members: 
+
+1. David Tran [@dstudent17](https://github.com/dstudent17/4610-Group-Project-1)
+2. Nick Kalenik [@NickKalenik](https://github.com/NickKalenik/MIST4610GroupProject1)
+3. Minathi Mekala [@minathi11](https://github.com/minathi11/MISTGroupProject1)
+4. Ngoc Nguyen [@ngocpn1](https://github.com/ngocpn1/MISTProject1)
+5. Anthony Ramage [@anthonyramage](https://github.com/anthonyramage/MIST-4610-Group-Project-1)
+6. CJ Tumlin [@CJTumlin](https://github.com/CJTumlin/MIST4610)
+
 ## Problem Description:
-Our team has been tasked to model and create a relational database for the operations of "Athens Tennis Haven", a tennis club in Athens, Georgia. The club has a complex network of relationships between club members, tennis courts, club staff, tennis equipment, etc. We plan to accurately model these relationships and populate realistic data for each entity and their attributes. With this data, we will create a series of queries to extract meaningful information from the database to make important busines decisions for Athens Tennis Haven.
+Our team has been tasked to model and create a relational database for the operations of "Athens Tennis Haven", a tennis club in Athens, Georgia. The club has a complex network of relationships between club members, tennis courts, club staff, tennis equipment, etc. We plan to accurately model these relationships and populate realistic data for each entity and their attributes. With this data, we will create a series of queries to extract meaningful information from the database to make important business decisions for Athens Tennis Haven.
 ## Data Model:
 Data Model Explanation:
 
+Our model works to ensure a good flow to serve the 3 main entities: courts, members, and employees. A club can have multiple courts that can be utilized in different ways. Maintenance Employees can log the times they will service the courts, members can schedule Sessions for the Lessons with their coaches, and they can make reservations on their own. This is all connected to the Courts table that allows the Tennis Club to see all activities going on within those courts. 
+Employees belong to different Departments. Maintenance Employees are connected to the courts through Services, and Coaches can make Lessons, which are connected to the courts through Session, with their students. 
+The club has many members. They are Billed individually and can be in Teams. Members can also rent out equipment needed to use at the courts. They can make reservations with the courts to practice either by themselves or for their teams, and they can join a Session to get Lessons with their coach. 
 
-![Screenshot 2023-11-03 at 3 37 34 PM](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/23f8f4cc-82d0-469a-9ea8-a6de484cc7cb)
-
+<img width="852" alt="UpdatedDataModel" src="https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/ca2dcc0d-4660-4b4f-974b-4c497db45a86">
 
 ## Data Dictionary:
-![Screenshot 2023-11-03 at 3 46 30 PM](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/f822c3f4-7c6e-427e-a045-7348f6c2d6df)
+![DataDictionaryFinal](https://github.com/NickKalenik/MIST4610GroupProject1/assets/148160069/82f1212d-230e-4d07-949f-4957ba43e45e)
 
 ## Queries:
 
@@ -101,7 +104,6 @@ Query 10 can be helpful to management by providing a quick glance at the quantit
 Name of database: ns_F2339217Group6
 
 Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Qx(), where x is the query number.
-
 
 
 
