@@ -18,3 +18,12 @@
 ## Data Model
 ![Data Model](https://github.com/ngocpn1/MISTProject1/blob/main/Screenshot%202023-11-03%20at%204.07.04%20PM%20copy.png?raw=true)
 
+## Data Dictionary
+![Billing Table](https://github.com/ngocpn1/MISTProject1/blob/main/Screenshot%202023-11-03%20at%204.20.09%20PM.png?raw=true)
+![Courts Table](https://github.com/ngocpn1/MISTProject1/blob/main/Screenshot%202023-11-03%20at%204.21.53%20PM.png?raw=true)
+![Department Table](https://github.com/ngocpn1/MISTProject1/blob/main/Screenshot%202023-11-03%20at%204.22.28%20PM.png?raw=true)
+
+
+
+
+
